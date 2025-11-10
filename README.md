@@ -1,10 +1,9 @@
-# Hi, I'm Chen Jianzhou 👋
+# Hi, I'm lucas 👋
 
 🔒 I'm a researcher focusing on **Android Security**, **Reverse Engineering**, and **Binary Analysis**.  
 🧠 Interested in **ARM architecture**, **malware analysis**, and **software hardening**.  
 ⚙️ Currently exploring topics related to **static & dynamic analysis**, and **secure system design**.  
 📍 Passionate about understanding how things work — from kernel to apps.  
-📫 Contact: **cccjjz@example.com**
 
 ---
 
