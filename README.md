@@ -5,7 +5,6 @@
 ⚙️ Currently exploring topics related to **static & dynamic analysis**, and **secure system design**.  
 📍 Passionate about understanding how things work — from kernel to apps.  
 
----
 
 ### 🧩 Research Interests
 - Android Application Security & Hardening  
@@ -14,7 +13,6 @@
 - ARM64 Architecture Internals  
 - Program Analysis & Vulnerability Detection
 
----
 
 ### 🧠 Current Focus
 - 🔍 Automating Android app security evaluation  
@@ -22,7 +20,6 @@
 - 🧰 Building custom static analysis tools for malware classification  
 - 💡 Experimenting with hybrid analysis (symbolic + dynamic)
 
----
 
 ### 🧠 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cccjjz&layout=compact&theme=default&langs_count=6)
