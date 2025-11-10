@@ -22,3 +22,8 @@
 - 🧰 Building custom static analysis tools for malware classification  
 - 💡 Experimenting with hybrid analysis (symbolic + dynamic)
 
+---
+
+### 🧠 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cccjjz&layout=compact&theme=default&langs_count=6)
+
