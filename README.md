@@ -5,13 +5,13 @@
 ⚙️ Currently exploring topics related to **static & dynamic analysis**, and **secure system design**.  
 📍 Passionate about understanding how things work — from kernel to apps.  
 
-### 🧠 Current Focus
+### Current Focus
 - 🔍 Automating Android app security evaluation  
 - 🧩 Detecting and bypassing obfuscation and packing techniques  
 - 🧰 Building custom static analysis tools for malware classification  
 - 💡 Experimenting with hybrid analysis (symbolic + dynamic)
 
 
-### 🧠 Most Used Languages
+### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cccjjz&layout=compact&theme=default&langs_count=6)
 
