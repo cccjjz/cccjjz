@@ -1,17 +1,13 @@
-# Hi, I'm lucas 👋
+# Hi, I'm Lucas 👋
 
-🔒 I'm a researcher focusing on **Android Security**, **Reverse Engineering**, and **Binary Analysis**.  
-🧠 Interested in **ARM architecture**, **malware analysis**, and **software hardening**.  
-⚙️ Currently exploring topics related to **static & dynamic analysis**, and **secure system design**.  
-📍 Passionate about understanding how things work — from kernel to apps.  
+🎓 I'm currently a PhD student at **The Chinese University of Hong Kong (CUHK)**.
+
+My research interests are mainly in **AI Security** and **System Security**.  
+I care about how modern AI and software systems can be attacked, analyzed, and made more reliable.
 
 ### Current Focus
-- 🔍 Automating Android app security evaluation  
-- 🧩 Detecting and bypassing obfuscation and packing techniques  
-- 🧰 Building custom static analysis tools for malware classification  
-- 💡 Experimenting with hybrid analysis (symbolic + dynamic)
 
-
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cccjjz&layout=compact&theme=default&langs_count=6)
-
+- AI security and trustworthy AI systems
+- System security and vulnerability analysis
+- Security evaluation of real-world software systems
+- Building tools for security analysis and testing
